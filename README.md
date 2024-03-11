@@ -32,7 +32,7 @@ We use the SMPL-NPT dataset provided by NPT, please download data from this link
 ## Run (to be done, still cleaning up the code)
 run the training:
 ```
-python train.py
+python main_attack.py
 ```
 
 Attacks are in "attack" folder, to check different attacks.
