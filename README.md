@@ -3,7 +3,7 @@
 "[Towards Robust 3D Pose Transfer with Adversarial Learning]"
 
 # 3DPOSE adversarial training
-This is the PyTorch implementation of our CPVR 2024 paper Towards Robust 3D Pose Transfer with Adversarial Learning.
+This is the PyTorch implementation of our CVPR 2024 paper Towards Robust 3D Pose Transfer with Adversarial Learning.
 [Haoyu Chen](https://scholar.google.com/citations?user=QgbraMIAAAAJ&hl=en), [Hao Tang](https://github.com/Ha0Tang), [Ehsan Adeli](https://scholar.google.com/citations?user=7NX_J_cAAAAJ&hl=en), [Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en). <br>
 
 #### Citation
